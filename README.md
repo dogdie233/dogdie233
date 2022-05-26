@@ -34,8 +34,8 @@ __但是上学可以见到喜欢的人捏__
 - PyCharm
 
 ## 💬社交账户
-[![BiliBili](https://img.shields.io/badge/-dogdie233-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/41589917) ![Discord](https://img.shields.io/badge/-dogdie233%20%232595-404EED?style=flat-square&logo=discord&logoColor=white&labelColor=404EED) [![Steam](https://img.shields.io/badge/-dogdie666-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/dogdie666)
-![GenshinImpact](https://genshin-card.getloli.com/6/162633972.png)
+[![BiliBili](https://img.shields.io/badge/-dogdie233-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/41589917) ![Discord](https://img.shields.io/badge/-dogdie233%20%232595-404EED?style=flat-square&logo=discord&logoColor=white&labelColor=404EED) [![Steam](https://img.shields.io/badge/-dogdie666-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/dogdie666)  
+![GenshinImpact](https://genshin-card.getloli.com/6/162633972.png)  
 __Also play Minecraft__
 
 睡觉去了，剩下的慢慢写罢
