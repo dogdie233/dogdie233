@@ -1,6 +1,6 @@
 # 耶，我是狗带die_(dogdie233)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dogdie233&show_icons=true">
+<img align="right" src="https://gh-stats.dogdie.icu/api?username=dogdie233&show_icons=true&count_private=true">
 
 我的英语很烂(My english is poooooor. lol)
 
@@ -14,7 +14,7 @@ __但是上学可以见到喜欢的人捏__
 
 ## 😇想学(但是懒)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogdie233&layout=compact">
+<img align="right" src="https://gh-stats.dogdie.icu/api/top-langs?username=dogdie233&layout=compact">
 
 - Deep Learning
 - C++
