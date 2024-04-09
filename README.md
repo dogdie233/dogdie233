@@ -2,40 +2,27 @@
 
 <img align="right" src="https://gh-stats.dogdie.icu/api?username=dogdie233&show_icons=true&count_private=true">
 
-我的英语很烂(My english is poooooor. lol)
+我的英语很烂(My english is poooooor. lol);
 
-所以用中文写自述文件(So use Chinese write my README. XD)
+所以用中文写自述文件(So use Chinese write my README. XD);
 
-要上学，所以很忙(I have to go to school, so I'm busy. TnT)
+要玩游戏，所以很忙(Addicted to games -> I'm busy. AwA);
 
-😠 ~~I don't want to go to school.~~
+会中文，一部分英语，以及微不足道的日语(Chinese good, English _maybe_ well, my Japanese is noob);
 
-__但是上学可以见到喜欢的人捏__
+主要使用的语言是C#，C++只会一点用来打ACM，python只会一点，typescript只会一点(Use C# in most case, C++ just learning in order to play _codeforces_, python and typescript just know their grammar);
 
-## 😇想学(但是懒)
-
-<img align="right" src="https://gh-stats.dogdie.icu/api/top-langs?username=dogdie233&layout=compact">
-
-- Deep Learning
-- C++
-- Kotlin
-- Android develop
-- Ukulele
-- Draw cartoon characters
-- How to make a SPA web application
+__Game Developer__
 
 ## ✨正在使用的IDE/文件编辑器
 
-> All Community Edition
+<img align="right" src="https://gh-stats.dogdie.icu/api/top-langs?username=dogdie233&layout=compact">
 
 - Visual Studio
 - Visual Studio Code
-- IDEA
 - PyCharm
+- IDEA
 
 ## 💬社交账户
 [![BiliBili](https://img.shields.io/badge/-dogdie233-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/41589917) ![Discord](https://img.shields.io/badge/-dogdie233%20%232595-404EED?style=flat-square&logo=discord&logoColor=white&labelColor=404EED) [![Steam](https://img.shields.io/badge/-dogdie666-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/dogdie666)  
-![GenshinImpact](https://genshin-card.getloli.com/6/162633972.png)  
-__Also play Minecraft__
-
-睡觉去了，剩下的慢慢写罢
+~![GenshinImpact](https://genshin-card.getloli.com/6/162633972.png)~ 退坑了  
