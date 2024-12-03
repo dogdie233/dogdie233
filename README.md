@@ -20,9 +20,6 @@ __Game Developer__
 
 - Visual Studio
 - Visual Studio Code
+- Rider
 - PyCharm
 - IDEA
-
-## 💬社交账户
-![Discord](https://img.shields.io/badge/-dogdie233%20%232595-404EED?style=flat-square&logo=discord&logoColor=white&labelColor=404EED)
-~![GenshinImpact](https://genshin-card.getloli.com/6/162633972.png)~ 退坑了  
